@@ -53,7 +53,7 @@ inquirer.prompt([
 
 // Create the README file
 .then((data) => {
-  const filename = `README.md`;
+  const filename = `sample-README.md`;
   const md = createREADME(data)
 
   fs.writeFile(filename, md, (err) =>
