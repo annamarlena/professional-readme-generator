@@ -1,11 +1,11 @@
 
-# my proj
+# My Project
 
-[![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ## Project Description
 
-very cool
+A professional README generator using node.js
 
 ## Table of Contents
 
@@ -18,28 +18,28 @@ very cool
 
 ## Installation
 
-be caregful
+Install with care.
 
 ## Usage
 
-use with care
+Be kind, rewind.
 
 ## License
 
-GNU General Public License v3.0
+BSD 2-Clause License
 
 ## Contributing
 
-none
+Always be kind to others.
 
 ## Tests
 
-test it
+Test frequently, observe quietly.
 
 ## Questions
 
-My GitHub profile: [https://github.com/myusername](https://github.com/myusername)
+My GitHub profile: [https://github.com/annamarlena](https://github.com/annamarlena)
 
-Contact me via email: [myemail@email.com](mailto:myemail@email.com)
+Contact me via email: [myemail@gmail.com](mailto:myemail@gmail.com)
 
  
