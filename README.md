@@ -6,7 +6,7 @@ The objective of this project was to create a command-line application that dyna
 
 ## Link to Video Demonstration
 
-Click to watch a video demonstration [https://drive.google.com/file/d/18G9PxsK69AlFUu3nWDCd5wtOn4gRMUy2/view](https://drive.google.com/file/d/18G9PxsK69AlFUu3nWDCd5wtOn4gRMUy2/view).
+Click to watch a video demonstration. [https://drive.google.com/file/d/18G9PxsK69AlFUu3nWDCd5wtOn4gRMUy2/view](https://drive.google.com/file/d/18G9PxsK69AlFUu3nWDCd5wtOn4gRMUy2/view)
 
 ## Screenshot
 
