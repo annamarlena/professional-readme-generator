@@ -10,4 +10,6 @@ Click to watch a video demonstration [https://drive.google.com/file/d/18G9PxsK69
 
 ## Screenshot
 
-1[Here's a screenshot of the prompt questions and answers in the terminal.](./assets/images/terminal.png)
+![Here's a screenshot of the prompt questions and answers in the terminal.](./assets/images/terminal.png)
+
+![And here's a screenshot of the finished sample README from the demonstration video.](./assets/images/sample-readme.png)
